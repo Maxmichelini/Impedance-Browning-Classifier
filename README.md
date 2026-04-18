@@ -3,11 +3,12 @@
 This research project, developed in collaboration with the **Free University of Bolzano (unibz)**, focuses on the development of a non-destructive classification system for detecting internal browning in apples. By leveraging impedance spectroscopy data (magnitude and phase angle), the pipeline provides an automated quality control tool to identify physiological degradations without damaging the fruit.
 
 ## Table of Contents
-* [Dataset Overview](#-dataset-overview)
-* [System Architecture](#️-system-architecture)
-* [Usage](#-usage)
-* [Performance Tracking](#-performance-tracking)
-* [Considerations and Future Developments](#-considerations-and-future-developments)
+* [Project Structure](#project-structure)
+* [Dataset Overview](#dataset-overview)
+* [System Architecture](#️system-architecture)
+* [Usage](#usage)
+* [Performance Tracking](#performance-tracking)
+* [Considerations and Future Developments](#considerations-and-future-developments)
 
 
 ## Project Structure
