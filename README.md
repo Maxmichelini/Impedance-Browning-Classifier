@@ -75,7 +75,7 @@ The main entry point is the Jupyter Notebook `impedenza_classification.ipynb`, w
 The models are evaluated not only on raw accuracy but also on their ability to handle class distribution, ensuring the browning detection is sensitive enough for practical quality control applications.
 
 <img src="images/Example_of_result.png"
-width=50% height=100%></img>
+width=30% height=100%></img>
 
 ## Considerations and Future Developments
 
